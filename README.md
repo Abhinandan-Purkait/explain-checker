@@ -16,7 +16,6 @@ This checks whether all the api-resources have a openAPI explain data or not.
 
 ```
 k8s@master-sh2:~$ explain-checker.py 
-INVALID STRING
 cs ------> T
 cm ------> T
 ep ------> T
